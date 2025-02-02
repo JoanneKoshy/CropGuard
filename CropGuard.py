@@ -1,6 +1,6 @@
 import streamlit as st
 import datetime
-from langdetect import detect
+#from langdetect import dete
 from googletrans import Translator
 
 # Set page config at the very beginning
