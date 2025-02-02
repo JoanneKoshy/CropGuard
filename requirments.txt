@@ -1,4 +1,4 @@
-langdetect
+
 googletrans
 google.generativeai
 PIL
