@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Configure the Gemini API key
-genai.configure(api_key="AIzaSyCechdSJRU97rM554e9nxGpukKDWehxwTE")  # Replace with your actual API key
+genai.configure(api_key="")  # Replace with your actual API key
 
 def get_soil_analysis(nitrogen, phosphorus, potassium, ph_level, crop_type):
     # Generate prompt for the Gemini API using the soil data and crop type
