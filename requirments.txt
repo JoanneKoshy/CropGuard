@@ -1,0 +1,9 @@
+langdetect
+googletrans
+google.generativeai
+PIL
+deep_translator
+requests
+streamlit
+mimetypes
+io
