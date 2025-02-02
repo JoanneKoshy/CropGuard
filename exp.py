@@ -1,5 +1,5 @@
 import streamlit as st
-#from langdetect import detect
+
 from googletrans import Translator
 import datetime
 from PIL import Image
